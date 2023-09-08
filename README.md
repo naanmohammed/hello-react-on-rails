@@ -170,8 +170,6 @@ If you like this project leave a star on GitHub!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original Design Idea by [Gregoire Vella](https://www.behance.net/gregoirevella).
-
 I would like to thank all those who helped me throughout this module.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
